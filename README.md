@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexandreKenzie
+- 👀 I’m interested in ... many projects backend
+- 🌱 I’m currently learning ... new programing languages
+- 💞️ I’m looking to collaborate on ... many projects of kenzie academy
+- 📫 How to reach me ...
