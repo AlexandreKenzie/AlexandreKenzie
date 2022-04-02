@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexandre Trieste
+- 👋 Hi, I’m Alexandre Trieste
 - 👀 I’m interested in ... projects as backend
 - 🌱 I’m currently learning ... new programing languages, especially, nodeJS and Java
 - 💞️ I’m looking to collaborate on ... many projects of kenzie academy
