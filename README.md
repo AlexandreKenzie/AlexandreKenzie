@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @AlexandreKenzie
-- 👀 I’m interested in ... many projects backend
-- 🌱 I’m currently learning ... new programing languages
+- 👋 Hi, I’m @Alexandre Trieste
+- 👀 I’m interested in ... projects as backend
+- 🌱 I’m currently learning ... new programing languages, especially, nodeJS and Java
 - 💞️ I’m looking to collaborate on ... many projects of kenzie academy
-- 📫 How to reach me ...
+- 📫 How to reach me ... here or via alexandre.silva@kenzie.com.br
+- Enjoy even more...
